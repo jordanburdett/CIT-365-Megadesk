@@ -1,0 +1,15 @@
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\bin\Debug\MegaDesk-Burdett.exe.config
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\bin\Debug\MegaDesk-Burdett.exe
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\bin\Debug\MegaDesk-Burdett.pdb
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk-Burdett.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk-Burdett.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk_Burdett.MainMenu.resources
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk_Burdett.Properties.Resources.resources
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk-Burdett.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk-Burdett.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk-Burdett.exe
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk-Burdett.pdb
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk_Burdett.AddQuote.resources
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk_Burdett.DisplayQuotes.resources
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk_Burdett.SearchQuotes.resources
+C:\Users\Jordan\source\repos\MegaDesk-Burdett\MegaDesk-Burdett\obj\Debug\MegaDesk_Burdett.ViewAllQuotes.resources
